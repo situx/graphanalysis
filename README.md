@@ -1,4 +1,7 @@
 # graphanalysis
+
+[![Build Status](https://travis-ci.com/situx/graphanalysis.svg?branch=master)](https://travis-ci.com/situx/graphanalysis)
+
 Projects for social network graph analysis
 
 In this repository a collection of projects done in my masters' study concerning graph analysis is shown.
